@@ -3,7 +3,7 @@ package First_project;
 public class democlass {
 	
 	public String demo() {
-		return "hello";
+		return "hello there";
 	}
 
 }
